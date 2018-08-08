@@ -113,6 +113,7 @@ nav h3 {
 
 #projects {
     text-align: center;
+    margin-top: 5%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
